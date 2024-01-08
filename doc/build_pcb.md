@@ -193,6 +193,11 @@ If you omit both R1 and R1_TH, you will have issues when hot swapping SD cards.
 Building floppy connector pins
 ==============================
 
+You can directly buy connector pins here
+https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/4123-0-00-15-00-00-08-0/10063633
+
+or build from scratch as below
+
 The floppy connector requires very long pins. If you want to use the floppy
 connector adapter, you will need to build 14 special pins.
 
